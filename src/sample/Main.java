@@ -19,7 +19,7 @@ public class Main extends Application {
 
         //Setting the text to be added.
         text.setText("Hello how are you");
-        text2.setText("Apa khabar");
+        text2.setText("Apa khabar?");
 
         //setting the position of the text
         text.setX(50);
